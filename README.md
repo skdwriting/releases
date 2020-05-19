@@ -15,7 +15,7 @@ SODA Foundation is an open source project under Linux Foundation that aims to fo
 
 ## SODA Releases
 
-SODA Releases are the umbrella release from SODA Foundation. It comprises of the corresponding projects or repositories of SODA Landscape. 
+SODA Releases are the umbrella release from SODA Foundation. It comprises of the corresponding projects or repositories of SODA Landscape. ///
 
 Each of the SODA Release will be provided a combined solution and use case value integrating selected SODA Projects. It will provide a reference solution/architecture and helps to get a combined value of SODA Landscape projects. This also can help the user to build specific business solution starting from these reference solutions.
 
